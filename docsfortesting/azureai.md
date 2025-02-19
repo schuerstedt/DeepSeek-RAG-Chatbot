@@ -1,7 +1,10 @@
-Here some question for the AI documentation. The document is almost 100MB large with 1431 pages. 
+Here some question for the AI documentation. The document is almost 100MB large with 1431 pages.
+
+To retrieve this file goto: https://learn.microsoft.com/en-us/azure/ai-studio/ and Download PDF at the left bottom. 
+
+
 
 Question with ChatGPT 4o.
-
 
 can you summarize this document?
 
@@ -25,10 +28,7 @@ The document also covers  **pricing and billing** ,  **resource management** , a
 
 Would you like a more detailed summary on a specific section?
 
-
-
 Simple questions with answer:
-
 
 ### **1. What is Azure AI Foundry, and what is its primary purpose?**
 
@@ -79,8 +79,6 @@ Azure AI Foundry includes a **Management Center** that helps teams  **govern AI 
 * **Quota and usage monitoring** to manage AI deployment costs
 
 Admins can also **audit** and  **control AI models** , ensuring compliance with  **enterprise-grade security policies** .
-
-
 
 More challenging needle in a haystack type:
 
@@ -168,9 +166,7 @@ Your RAG system must **identify that fine-tuning is only possible through the Ma
 
 If your RAG system can **correctly retrieve** the answers to these **needle-in-the-haystack** questions, it has strong **document comprehension and retrieval** abilities. If it **fails** on certain details (e.g., missing container names, partial region lists, or incorrect service names), then you may need to  **optimize your retrieval pipeline** .
 
-
 Challenge questions:
-
 
 Great! Here are **five more advanced stress test questions** that push your **RAG system’s retrieval and synthesis** capabilities. These will test **deep retrieval, cross-referencing, and precise contextual understanding** within your AI pipeline.
 
